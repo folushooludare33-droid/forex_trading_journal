@@ -5,7 +5,7 @@ This project is a personal trading journal to track and analyze my forex trades.
 
 ## Trading Rules & Strategy
 - **Risk-Reward Ratio**: 1:4
-- **Win Rate**: ~50%
+- **Win Rate**: ~60%
 - **Risk per Trade**: 0.5% of account balance ($25 on a $5k account)
 - **Instrument Traded**: EUR/USD
 - **Strategy**: A 3 minute price action view in accordance to the 4 hour time frame direction
@@ -19,8 +19,8 @@ This project is a personal trading journal to track and analyze my forex trades.
 - `Win/Loss`: Outcome of the trade
 
 ## Key Performance Metrics (from my dataset)
-- **Total Trades**: 9
-- **Win Rate**: 66.67% (Outperforming target 30%)
+- **Total Trades**:10
+- **Win Rate**: ~66.67% (Outperforming target 30%)
 - **Profit Factor**: ~3.0 (Total Gross Profit / Total Gross Loss)
 - **Max Drawdown**: $0 (Not yet realized)
 
