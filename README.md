@@ -8,7 +8,7 @@ This project is a personal trading journal to track and analyze my forex trades.
 - **Win Rate**: ~60%
 - **Risk per Trade**: 0.5% of account balance ($25 on a $5k account)
 - **Instrument Traded**: EUR/USD
-- **Strategy**: A 3 minute price action view in accordance to the 4 hour time frame direction
+- **Strategy**: A 1 minute price action view in accordance to the 4 hour time frame direction
 
 ## Data Dictionary
 - `Trade#`: Sequential trade number
@@ -19,10 +19,10 @@ This project is a personal trading journal to track and analyze my forex trades.
 - `Win/Loss`: Outcome of the trade
 
 ## Key Performance Metrics (from my dataset)
-- **Total Trades**:10
-- **Win Rate**: ~66.67% (Outperforming target 30%)
-- **Profit Factor**: ~3.0 (Total Gross Profit / Total Gross Loss)
+- **Total Trades** 22
+- **Win Rate**: ~60.67% (Outperforming target 30%)
+- **Profit Factor**: ~4.0 (Total Gross Profit / Total Gross Loss)
 - **Max Drawdown**: $0 (Not yet realized)
 
 ## How to View the Data
-view the live trading tracker here https://eu.docworkspace.com/d/sbRadhQw2qzS6aOr_389mv89e3wlmz49ib4
+view the live trading tracker here https://eu.docworkspace.com/d/sbRadr5IP8cy7ZrV_uzs92nwtin8xi7kxqf
