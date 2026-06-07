@@ -25,4 +25,4 @@ This project is a personal trading journal to track and analyze my forex trades.
 - **Max Drawdown**: $0 (Not yet realized)
 
 ## How to View the Data
-view the live trading tracker here https://eu.docworkspace.com/d/sbRadr5IP8cy7ZrV_uzs92nwtin8xi7kxqf
+view the live trading tracker here https://eu.docworkspace.com/d/sbRadaRQl19vo2iz_xabkpq7cxarw5ef4ha
